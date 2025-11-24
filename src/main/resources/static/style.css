@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    padding: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 20px;
+}
